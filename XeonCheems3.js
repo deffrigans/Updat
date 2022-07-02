@@ -9266,7 +9266,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"rows": [
 									{
 										"title": "Other ☕",
-										"description": "Displays The List Of Other Features",
+										"description": "Menampilkan Daftar Other Features",
 										"rowId": `${prefix}othermenu`
 									}
 								]
@@ -9276,107 +9276,107 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"rows": [
 									{
 										"title": "All Menu 🥀",
-										"description": "Displays The List Of All The Features!",
+										"description": "Menampilkan Daftar All The Features!",
 										"rowId": `${prefix}allmenu`
 									},
 									{
 										"title": "Owner Menu 💠",
-										"description": "Displays The List Of Owner Features",
+										"description": "Menampilkan Daftar Owner Features",
 										"rowId": `${prefix}ownermenu`
 										},
 									{
 										"title": "Group Menu ✨",
-										"description": "Displays The List Of Main Features",
+										"description": "Menampilkan Daftar Main Features",
 										"rowId": `${prefix}groupmenu`
 										},
 										{
 										"title": "Rpg Menu 🏞️",
-										"description": "Displays The List Of Rpg Features",
+										"description": "Menampilkan Daftar Rpg Features",
 										"rowId": `${prefix}rpgmenu`
 										},
 										{
 										"title": "Maker Menu 🌈",
-										"description": "Displays The List Of Logo Making Features",
+										"description": "Menampilkan Daftar Logo Making Features",
 										"rowId": `${prefix}indomenu`
 									},
 									{
 										"title": "Sound Menu 🎵",
-										"description": "Displays The List Of Sound Features",
+										"description": "Menampilkan Daftar Sound Features",
 										"rowId": `${prefix}soundmenu`
 									},
 									{
 										"title": "Download Menu ↘️",
-										"description": "Displays The List Of Download Features",
+										"description": "Menampilkan Daftar Download Features",
 										"rowId": `${prefix}downloadmenu`
 									},
 									{
 										"title": "Sticker Menu 🃏",
-										"description": "Displays The List Of Sticker Features",
+										"description": "Menampilkan Daftar Sticker Features",
 										"rowId": `${prefix}indomenu`
 									},
 									{
 										"title": "Search Menu 🔎",
-										"description": "Displays The List Of Searching Features",
+										"description": "Menampilkan Daftar Searching Features",
 										"rowId": `${prefix}searchmenu`
 									},
 									{
 										"title": "Tool Menu ⚙️",
-										"description": "Displays The List Of Tool Features",
+										"description": "Menampilkan Daftar Tool Features",
 										"rowId": `${prefix}toolmenu`
 									},
 									{
 										"title": "Random Image Menu 🌆",
-										"description": "Displays The List Of Random Image Features",
+										"description": "Menampilkan Daftar Random Image Features",
 										"rowId": `${prefix}randomimagemenu`
 									},
 										{
 											"title": "Anime Menu 😘",
-										"description": "Displays The List Of Random Anime Features",
+										"description": "Menampilkan Daftar Random Anime Features",
 										"rowId": `${prefix}animemenu`
 										},
 										{
 										"title": "Anime Sticker Menu ☺️",
-										"description": "Displays The List Of Anime Sticker Features",
+										"description": "Menampilkan Daftar Anime Sticker Features",
 										"rowId": `${prefix}animestickermenu`
 									     },
 									{
 										"title": "Nsfw Menu 🤓",
-										"description": "Displays The List Of Nsfe Features",
+										"description": "Menampilkan Daftar Nsfe Features",
 										"rowId": `${prefix}nsfwmenu`
 									     },
 										{
 											"title": "Fun Menu 🕺",
-										"description": "Displays The List Of Fun Features",
+										"description": "Menampilkan Daftar Fun Features",
 										"rowId": `${prefix}funmenu`
 										},
 										{
 										"title": "Game Menu 🎮",
-										"description": "Displays The List Of Game Features",
-										"rowId": `${prefix}indomenu`
+										"description": "Menampilkan Daftar Game Features",
+										"rowId": `${prefix}gamemenu`
 									},
 										{
 											"title": "Convert Menu ⚒️",
-										"description": "Displays The List Of Convert Features",
+										"description": "Menampilkan Daftar Convert Features",
 										"rowId": `${prefix}convertmenu`
 										},
 										{
 											"title": "Database Menu ♻️",
-										"description": "Displays The List Of Database Features",
+										"description": "Menampilkan Daftar Database Features",
 										"rowId": `${prefix}databasemenu`
 										},
 										{
 											"title": "Islamic Menu 🧕",
-										"description": "Displays The List Of Islamic Features",
+										"description": "Menampilkan Daftar Islamic Features",
 										"rowId": `${prefix}islamicmenu`
 										},
 										{
 										"title": "Indo Menu  🦜",
-										"description": "Displays The List Of Indo Features",
+										"description": "Menampilkan Daftar Indo Features",
 										"rowId": `${prefix}indomenu`
 									},
 										{
 											"title": "Horoscope Menu 🕊️",
-										"description": "Displays The List Of Horoscope Features",
+										"description": "Menampilkan Daftar Horoscope Features",
 										"rowId": `${prefix}indohoroscopemenu`
 										}
 								]
@@ -9386,7 +9386,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"rows": [
 									{
 										"title": "Anonymous Chat Menu 🙎🏻‍♂️",
-										"description": "Displays The List Of Anonymous Chat Features",
+										"description": "Menampilkan Daftar Anonymous Chat Features",
 										"rowId": `${prefix}anonymousmenu`
 									}
 								]
@@ -9396,7 +9396,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"rows": [
 									{
 										"title": "Thanks To ❤️",
-										"description": "Displays The List Of Credit Of The Bot !!",
+										"description": "Menampilkan Daftar Credit Of The Bot !!",
 										"rowId": `${prefix}tqtt`
 									}
 								]
