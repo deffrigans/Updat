@@ -5399,7 +5399,7 @@ case 'bass': case 'blown': case 'deep': case 'earrape': case 'fast': case 'fat':
                 reply(e)
                 }
                 break
-case 'write': {
+case 'nulis': {
   		
 
 if (args.length < 1) return reply(`Example :\n${prefix}nulis Aldi|91|#ff020a|Manusia terganteng adalah salman alfarizi`)
@@ -5620,7 +5620,6 @@ fs.unlinkSync(ran)
 }
 break
 case 'runtime':
-reply(`bentar Bro Gw Liat Dulu..`)
 reply(`Runtime : ${runtime(process.uptime())}`)
 break
 case 'tomp4': case 'tovideo': {
