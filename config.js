@@ -66,7 +66,7 @@ global.linkz2 = "-"
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb picwait: 
 
 //database
 global.ntilinkytvid = []
@@ -95,16 +95,16 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
-    admin: 'feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
-    bot: 'This feature is only for bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    admin: 'fitur ini hanya untuk admin!',
+    botAdmin: 'Bot Harus Jadi Admin Dulu!',
+    owner: 'Fitur ini hanya untuk Owner',
+    group: 'Fitur ini hanya untuk grup!',
+    private: 'Fitur ini hanya untuk obrolan pribadi!',
+    bot: 'Fitur ini hanya untuk bot',0
+    wait: 'Tunggu Sebentar. . .',
+    linkm: 'Mana linknya?',
     error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    ban: 'Anda telah diblokir oleh BOT, jika Anda ingin unblokir, chat pemilik.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
