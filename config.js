@@ -100,7 +100,7 @@ global.mess = {
     owner: 'Fitur ini hanya untuk Owner',
     group: 'Fitur ini hanya untuk grup!',
     private: 'Fitur ini hanya untuk obrolan pribadi!',
-    bot: 'Fitur ini hanya untuk bot',0
+    bot: 'Fitur ini hanya untuk bot',
     wait: 'Tunggu Sebentar. . .',
     linkm: 'Mana linknya?',
     error: 'Error!',
